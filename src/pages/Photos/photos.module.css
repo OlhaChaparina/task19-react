@@ -1,0 +1,16 @@
+.cat{
+height: 300px;
+width: 400px;
+border-radius: 20px;
+}
+.grid{
+    padding-top: 30px;
+   padding-left: 150px;
+   padding-right: 150px;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    padding-bottom: 30px;
+   
+}
